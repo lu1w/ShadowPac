@@ -2,7 +2,7 @@
 The project stimulates the game PacMan. 
 
 This is a project for The University of Melbourne SWEN20003 Sem 1, 2023. 
-The project is built based on Bagel class (can be found at https://github.com/eleanor-em/bagel). 
+The project uses the Bagel library (can be found at https://github.com/eleanor-em/bagel) to interact with the user and screen display. 
 
 Copyright of the Bagel class is as follow:
 
